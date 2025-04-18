@@ -1,0 +1,14 @@
+{
+  "relays": [
+    {
+      "address": "localhost:12345",
+      "password": "aivan",
+      "ports": "12346"
+    },
+    {
+      "address": "localhost",
+      "password": "aivan",
+      "ports": "12347"
+    }
+  ]
+}
